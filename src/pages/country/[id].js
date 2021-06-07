@@ -64,7 +64,7 @@ const Country = ({ country }) => {
             </div>
 
             <div className={styles.details_panel_row}>
-              <div className={styles.details_panel_label}>Languagem</div>
+              <div className={styles.details_panel_label}>Linguagem</div>
               <div className={styles.details_panel_value}>
                 {country.languages.map(({ name }) => name).join(", ")}
               </div>
@@ -85,7 +85,7 @@ const Country = ({ country }) => {
             </div>
 
             <div className={styles.details_panel_row}>
-              <div className={styles.details_panel_label}>Gini</div>
+              <div className={styles.details_panel_label}>%</div>
               <div className={styles.details_panel_value}>{country.gini} %</div>
             </div>
 

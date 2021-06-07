@@ -113,7 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-Made with 💜 [by Israel Silva](https://israel206.github.io/) 👋 com os direitos reservado da Rocketseat
+Made with 💜 [by Israel Silva](https://israel206.github.io/) 👋
 
 [ts]: https://www.typescriptlang.org
 [vscode]: https://code.visualstudio.com/
