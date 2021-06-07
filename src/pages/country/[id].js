@@ -91,7 +91,7 @@ const Country = ({ country }) => {
 
             <div className={styles.details_panel_borders}>
               <div className={styles.details_panel_borders_label}>
-                Neighbouring Countries
+                Países vizinhos
               </div>
 
               <div className={styles.details_panel_borders_container}>

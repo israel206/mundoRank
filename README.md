@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="mundoRank" src=".github/" width="90%">
+  <img alt="mundoRank" src=".github/WorlRanks.gif" width="80%">
 </p>
 
 ---
