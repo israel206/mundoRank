@@ -100,8 +100,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 developing web application
 
 ---
